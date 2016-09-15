@@ -17,8 +17,8 @@ Read [this article](https://www.digitalocean.com/community/tutorials/how-to-set-
 
 ## Todo
 
-[x] Set up the Git Server
-[] Create shell scripts for creating, modifying and deleting Git repos
-[] Create simple Web UI for the Git server
-[] Create simple REST API for creating, modifying and deleting Git repos
-[] Git hooks to sync to GitHub
+- [x] Set up the Git Server
+- [ ] Create shell scripts for creating, modifying and deleting Git repos
+- [ ] Create simple Web UI for the Git server
+- [ ] Create simple REST API for creating, modifying and deleting Git repos
+- [ ] Git hooks to sync to GitHub
