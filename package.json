@@ -1,0 +1,34 @@
+{
+  "name": "minigit",
+  "version": "1.0.0",
+  "description": "minigit rest api server",
+  "main": "express.js",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanhauhau/minigit.git"
+  },
+  "keywords": [
+    "minigit",
+    "express",
+    "rest",
+    "git",
+    "server",
+    "api"
+  ],
+  "author": "Tan Li Hau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanhauhau/minigit/issues"
+  },
+  "homepage": "https://github.com/tanhauhau/minigit#readme",
+  "dependencies": {
+    "api-error-handler": "^1.0.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "http-errors": "^1.5.0",
+    "morgan": "^1.7.0"
+  }
+}
