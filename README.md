@@ -6,14 +6,11 @@ Read [this article](https://www.digitalocean.com/community/tutorials/how-to-set-
 
 ## Setup
 
-1. Create a `git` user.
+1. Run `init.sh` script to initialize
 	
 	```sh
-	$ sudo ./create_user.sh
+	$ sudo ./init.sh
 	```
-	
-2. Create a SSH Key Pair
-
 
 ## Todo
 
